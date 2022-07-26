@@ -11,7 +11,7 @@ Simplified the Trending list with the basis of given data and tell which industr
 * [Framework Used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#frameworks-used)
 * [Youtube Video Statistics Data Dictionary](https://github.com/piyush033/Trending-Youtube-Video-Statistics#trending-youtube-video-statistics-data-dictionary)
 * [Model Visualization](https://github.com/piyush033/Trending-Youtube-Video-Statistics#model-visualizations)
-* [Conclusion]()
+* [Conclusion](https://github.com/piyush033/Trending-Youtube-Video-Statistics/blob/main/README.md#conclusion)
 
 # Dataset Used 
 The original data come from [Kaggle Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new).
