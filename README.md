@@ -3,27 +3,27 @@
 # Problem Statement
 Simplified the Trending list with the basis of given data and tell which industry comes in trending list.
 
-* Main Code: https://github.com/piyush033/Trending-Youtube-Video-Statistics/blob/main/Trending-Youtube-Video-Statistics-checkpoint.ipynb 
+* [Main Code](https://github.com/piyush033/Trending-Youtube-Video-Statistics/blob/main/Trending-Youtube-Video-Statistics-checkpoint.ipynb) 
 
 # Table of Content
-* [https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#problem-statement](https://github.com/piyush033/Trending-Youtube-Video-Statistics#problem-statement)
-* [https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#dataset-used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#dataset-used) 
-* [https://github.com/piyush033/Time-Series-Data-Project#frameworks-used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#frameworks-used)
-* [https://github.com/piyush033/Time-Series-Data-Project#bulldozer-data-dictionary](https://github.com/piyush033/Trending-Youtube-Video-Statistics#trending-youtube-video-statistics-data-dictionary)
-* [https://github.com/piyush033/Time-Series-Data-Project#model-visualizations](https://github.com/piyush033/Trending-Youtube-Video-Statistics#model-visualizations)
+* [Problem Statement](https://github.com/piyush033/Trending-Youtube-Video-Statistics#problem-statement)
+* [Dataset Used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#dataset-used) 
+* [Framework Used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#frameworks-used)
+* [Youtube Video Statistics Data Dictionary](https://github.com/piyush033/Trending-Youtube-Video-Statistics#trending-youtube-video-statistics-data-dictionary)
+* [Model Visualization](https://github.com/piyush033/Trending-Youtube-Video-Statistics#model-visualizations)
 
 # Dataset Used 
 The original data come from [Kaggle Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new).
 
-You can find this also in my repository: https://github.com/piyush033/Trending-Youtube-Video-Statistics/tree/main/Data 
+You can find this also in my repository: [My Repository](https://github.com/piyush033/Trending-Youtube-Video-Statistics/tree/main/Data) 
 
 # Frameworks Used
 
-* Numpy
-* Pandas
-* Scikit-Learn
-* Matplotlib
-* Seaborn
+* [Numpy](https://numpy.org/doc/)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Matplotlib](https://matplotlib.org/stable/index.html)
+* [Seaborn](https://seaborn.pydata.org/)
 
 # Trending YouTube Video Statistics Data Dictionary
 
