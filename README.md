@@ -6,11 +6,11 @@ Simplified the Trending list with the basis of given data and tell which industr
 * Main Code: https://github.com/piyush033/Trending-Youtube-Video-Statistics/blob/main/Trending-Youtube-Video-Statistics-checkpoint.ipynb 
 
 # Table of Content
-* [Problem Statement]([https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#problem-statement](https://github.com/piyush033/Trending-Youtube-Video-Statistics#problem-statement))
-* [Dataset Used]([https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#dataset-used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#dataset-used))  
-* [Frameworks Used]([https://github.com/piyush033/Time-Series-Data-Project#frameworks-used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#frameworks-used))
-* [Bulldozer Data Dictionary]([https://github.com/piyush033/Time-Series-Data-Project#bulldozer-data-dictionary](https://github.com/piyush033/Trending-Youtube-Video-Statistics#trending-youtube-video-statistics-data-dictionary))
-* [Model Visualizations]([https://github.com/piyush033/Time-Series-Data-Project#model-visualizations](https://github.com/piyush033/Trending-Youtube-Video-Statistics#model-visualizations))
+* [https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#problem-statement](https://github.com/piyush033/Trending-Youtube-Video-Statistics#problem-statement)
+* [https://github.com/piyush033/Time-Series-Data-Project/blob/main/README.md#dataset-used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#dataset-used) 
+* [https://github.com/piyush033/Time-Series-Data-Project#frameworks-used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#frameworks-used)
+* [https://github.com/piyush033/Time-Series-Data-Project#bulldozer-data-dictionary](https://github.com/piyush033/Trending-Youtube-Video-Statistics#trending-youtube-video-statistics-data-dictionary)
+* [https://github.com/piyush033/Time-Series-Data-Project#model-visualizations](https://github.com/piyush033/Trending-Youtube-Video-Statistics#model-visualizations)
 
 # Dataset Used 
 The original data come from [Kaggle Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new).
