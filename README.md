@@ -11,6 +11,7 @@ Simplified the Trending list with the basis of given data and tell which industr
 * [Framework Used](https://github.com/piyush033/Trending-Youtube-Video-Statistics#frameworks-used)
 * [Youtube Video Statistics Data Dictionary](https://github.com/piyush033/Trending-Youtube-Video-Statistics#trending-youtube-video-statistics-data-dictionary)
 * [Model Visualization](https://github.com/piyush033/Trending-Youtube-Video-Statistics#model-visualizations)
+* [Conclusion]()
 
 # Dataset Used 
 The original data come from [Kaggle Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new).
@@ -58,6 +59,11 @@ Possible uses for this dataset could include:
 * Statistical analysis over time.
 
 For further inspiration, see the kernels on this dataset!
+
+# Conclusion
+
+* The music category is in the 1st place on Youtube Platform.
+* The entertainment category comes after the music category.
 
 # Model Visualizations
 
