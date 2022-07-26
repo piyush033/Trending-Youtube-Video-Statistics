@@ -1,7 +1,7 @@
 # Trending-Youtube-Video-Statistics
 
 # Problem Statement
-Simplified the Trending list with the basis of given data and tell which industry comes in trending list.
+Simplify the Trending list with the basis of given data and tell which industry comes in trending list.
 
 * [Main Code](https://github.com/piyush033/Trending-Youtube-Video-Statistics/blob/main/Trending-Youtube-Video-Statistics-checkpoint.ipynb) 
 
