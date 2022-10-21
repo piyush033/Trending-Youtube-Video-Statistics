@@ -80,3 +80,12 @@ Data:
 ![Screenshot 2022-07-23 124436](https://user-images.githubusercontent.com/100412728/180944749-01eee641-f0e0-4afd-9a92-cfc260d2f8bb.png)
 
 ![Screenshot 2022-07-23 124524](https://user-images.githubusercontent.com/100412728/180944773-30f23397-3490-4381-bfd0-5111818200fb.png)
+
+Heatmaps updates: <br/>
+
+<img width="464" alt="image" src="https://user-images.githubusercontent.com/47862474/197239840-cedf4231-d013-45c2-957d-a0836a3658df.png">
+
+New dataframe updates: <br/>
+
+<img width="993" alt="image" src="https://user-images.githubusercontent.com/47862474/197239928-51b374f0-0de7-4c31-b175-a031342de51a.png">
+
